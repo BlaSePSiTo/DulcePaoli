@@ -99,7 +99,7 @@ nav ul li:hover {
     }
   }
 
-  @media (max-width: 430px) {
+  @media (max-width: 500px) {
       .main {
           width: 80%;
       }  
